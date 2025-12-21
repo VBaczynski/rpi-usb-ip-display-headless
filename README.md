@@ -26,6 +26,8 @@ Unlike the original project that emulates a USB keyboard to open a terminal, thi
 
 This approach works without any GUI session or logged-in user.
 
+![rpi-usb-ip-display-headless](images/IP-HL-Display.jpg)
+
 ## Hardware
 
 - **SpotPear/Waveshare RP2350 + 1.47" LCD board** (or similar Pico 2 board with Waveshare 1.47" LCD)
